@@ -243,17 +243,16 @@ a.f-ref{
 	cursor: default;
 }
 .logo{
-	width: 180px;
-	height: 180px;
-	position: absolute;
-	top: 0px;
-	left: 15px;
-	line-height: 428px;
-	color: white;
-	font-size: 59px;
-	font-weight: bold;
-	text-indent: -3px;
-	cursor: default;
+color: white;
+    cursor: default;
+    font-size: 59px;
+    font-weight: bold;
+    height: 180px;
+    left: 0px;
+    position: absolute;
+    text-indent: -3px;
+    top: 0;
+    width: 49%;
 }
 
 .f-title{
