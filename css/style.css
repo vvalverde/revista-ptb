@@ -182,15 +182,14 @@ body{
 	font-size: 15px;
 }
 .page.cover .f-cover-story{
-	color: rgba(255,255,255,0.9);
+	color: #FFF;
 	font-weight: 600;
 	font-size: 50px;
-	line-height: 46px;
+	line-height: 66px;
 	position: absolute;
 	bottom: 60px;
 	left: 40px;
 	margin: 0;
-	text-transform: uppercase;
 	cursor: default;
 }
 .page1 .front{
@@ -217,14 +216,15 @@ a.f-ref{
 	font-weight: 300;
 	text-indent: 1px;
 }
-.page.cover .f-cover-story span{
+.page.cover .f-cover-story .subtitulo{
 	display: block;
 	font-size: 26px;
 	line-height: 26px;
+	margin-top:22px;
 }
 .page a, 
 .page.cover .f-cover-story span{
-	color: #F86738;
+	color: #FFF;
 }
 .page a:hover{
 	color: #000;
